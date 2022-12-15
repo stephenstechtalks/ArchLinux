@@ -1,0 +1,11 @@
+ark
+dolphin
+egl-wayland
+konsole
+kwrite
+networkmanager-qt
+packagekit-qt5
+plasma-meta
+plasma-wayland-session
+print-manager
+sddm
