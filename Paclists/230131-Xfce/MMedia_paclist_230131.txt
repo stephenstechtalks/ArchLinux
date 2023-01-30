@@ -1,8 +1,6 @@
 alsa-card-profiles
-alsa-lib
 alsa-plugins
 alsa-firmware
-alsa-utils
 gst-libav
 gst-plugin-pipewire
 gst-plugins-base
@@ -11,7 +9,6 @@ gst-plugins-bad
 gst-plugins-ugly
 gstreamer
 gstreamer-vaapi
-libpulse
 pipewire
 pipewire-alsa
 pipewire-jack
