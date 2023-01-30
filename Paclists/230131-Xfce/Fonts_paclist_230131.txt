@@ -1,4 +1,3 @@
-cantarell-fonts
 inter-font
 noto-fonts
 ttf-bitstream-vera
