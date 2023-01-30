@@ -5,6 +5,5 @@ libreoffice-fresh
 mpv
 neofetch
 qbittorrent
-upower
 vlc
 yt-dlp
