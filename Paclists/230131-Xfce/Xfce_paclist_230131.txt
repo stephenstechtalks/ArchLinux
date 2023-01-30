@@ -13,11 +13,11 @@ geany
 gnome-firmware
 gnome-packagekit
 gtk-engine-murrine
-lightdm-gtk-greeter-settings
 meld
 papirus-icon-theme
 pavucontrol
 polkit-gnome
+sddm
 xarchiver
 xfce4
 xfce4-goodies
